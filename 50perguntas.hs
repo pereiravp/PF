@@ -1,4 +1,4 @@
--- Programação Funcional — 1º ano (LCC/LEF/LEI)
+-- Programação Funcional — 1º ano
 -- Reimplementação recursiva de funções pré-definidas.
 
 -- 1.
