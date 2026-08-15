@@ -4,8 +4,8 @@ Resoluções das fichas de trabalho e exercícios práticos da unidade curricula
 
 ## Conteúdo
 
-- `fichaa1.hs` a `fichaa8.hs` — resoluções das fichas 1 a 8 (tipos de dados, recursividade, funções de ordem superior, árvores e classes).
-- `50perguntas.hs` — reimplementação recursiva de funções pré-definidas do Prelude e da Data.List.
+- `fichaa1.hs` a `fichaa8.hs`: resoluções das fichas 1 a 8 (tipos de dados, recursividade, funções de ordem superior, árvores e classes).
+- `50perguntas.hs`: reimplementação recursiva de funções pré-definidas do Prelude e da Data.List.
 
 ## Utilização
 
